@@ -28,16 +28,4 @@
 		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>classes</name>
-			<type>2</type>
-			<location>E:/eclipse_java_workspace/springboot-drawio/src/main/webapp/WEB-INF/classes</location>
-		</link>
-		<link>
-			<name>java</name>
-			<type>2</type>
-			<location>E:/eclipse_java_workspace/springboot-drawio/src/main/java</location>
-		</link>
-	</linkedResources>
 </projectDescription>
